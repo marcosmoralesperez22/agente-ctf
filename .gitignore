@@ -1,0 +1,19 @@
+# Logs y resultados generados en ejecución
+logs/
+resultados.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Claves / secretos (por si acaso: NUNCA subir la API key)
+.env
+*.key
+secretos*
+
+# Sistema
+.DS_Store
+Thumbs.db

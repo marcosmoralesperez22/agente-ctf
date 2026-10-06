@@ -1,0 +1,25 @@
+[
+  {
+    "nombre": "01_base64",
+    "enunciado": "Decodifica este mensaje y encuentra la flag:\nZmxhZ3tiYXNlNjRfc2VuY2lsbG99",
+    "rapido": true
+  },
+  {
+    "nombre": "02_rot13",
+    "enunciado": "El siguiente texto esta cifrado con ROT13. Descifralo:\nsynt{ebg13_shapvban}",
+    "rapido": true
+  },
+  {
+    "nombre": "04_xor",
+    "enunciado": "Este texto esta XOR-eado con una clave de 1 byte desconocida. Recuperalo (prueba las 256 claves):\n3c363b3d21223528052f340538232e3f27"
+  },
+  {
+    "nombre": "06_multicapa",
+    "enunciado": "Hay varias capas de codificacion. Llega hasta la flag:\nNjY2YzYxNjc3Yjc2NjE3MjY5NjE3MzVmNjM2MTcwNjE3Mzdk"
+  },
+  {
+    "nombre": "07_binario",
+    "enunciado": "Encuentra la flag escondida en el archivo.",
+    "file": "./retos_prueba/07_binario.bin"
+  }
+]

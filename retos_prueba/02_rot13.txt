@@ -1,0 +1,2 @@
+El siguiente texto esta cifrado con ROT13. Descifralo:
+synt{ebg13_shapvban}

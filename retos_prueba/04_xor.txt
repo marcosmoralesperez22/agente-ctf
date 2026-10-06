@@ -1,0 +1,2 @@
+Este texto esta XOR-eado con una clave de 1 byte desconocida. Recuperalo (prueba las 256 claves):
+3c363b3d21223528052f340538232e3f27

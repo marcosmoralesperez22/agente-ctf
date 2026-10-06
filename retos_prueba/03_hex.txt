@@ -1,0 +1,2 @@
+Convierte estos bytes hexadecimales a texto:
+666c61677b68657861646563696d616c5f6f6b7d

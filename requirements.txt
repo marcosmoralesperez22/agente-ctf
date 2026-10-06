@@ -1,0 +1,7 @@
+# Dependencias del agente CTF.  Instalar con:  pip install -r requirements.txt
+anthropic>=0.40.0
+pycryptodome
+requests
+
+# Opcional (retos de 'pwn'). En Windows da problemas; instalar solo en Linux/WSL:
+# pwntools
